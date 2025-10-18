@@ -1,47 +1,69 @@
 <div align="center">
-  
-  <!-- Animated GIF (distinct visual from the example you provided) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N1NHA3MmZyazRyeWh1YXBuaTh2eDhtbnplMTFvN3dxaDM5aHRwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
 
-  <!-- Contribution snake animation (keeps the same concept but different source/size) -->
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/SerKirtan/Snake-Animation/main/snake.svg" width="220"/>
+  <!-- Minimal Professional Animation Banner -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=👋+Hi%2C+I'm+Param+Desai;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer" alt="Typing Animation" />
 
-  <!-- Typing animation (different text and styling; no emoji) -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Hello,+I+am+Param+Desai;AI+and+Machine+Learning+|+Web+Development;Third+Year+CSE+-+Nirma+University)](https://git.io/typing-svg)
-
-  <!-- GitHub stats and languages (reflects your whole profile) -->
+  <!-- Clean Dynamic GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
   </p>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perom7&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## About
-I am a third year Computer Science & Engineering student at Nirma University. I focus on artificial intelligence and machine learning, and also develop web applications and APIs. My work spans experiments and prototypes in ML, model deployment, and full‑stack web projects.
+## 🚀 About Me
+I'm a **3rd year Computer Science & Engineering** student at **Nirma University**, focused on **AI & ML research** and **web application development**.  
+I enjoy building practical projects — from deploying ML models to creating scalable full-stack web apps.
 
 ---
 
-## Connect
-- GitHub: https://github.com/perom7  
-- LinkedIn: add your LinkedIn URL in the file if you want it shown  
-- Email: add your email address in the file if you want it shown
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramdesai7)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/paramdesai7)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Perom_7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaiparam24@gmail.com)
 
 ---
 
-## Tech stack (visuals reflect entire profile activity)
-The images above show overall GitHub statistics and top languages across your profile (these reflect your repositories and commits). If you prefer different styling (light, dark, other theme) or separate badges per major language I can adjust them.
+## 🛠 Tech Stack
+
+### ⚡ Core Skills
+<div>
+  <img src="https://skillicons.dev/icons?i=python,cpp,dotnet,cs,flask,html,css,bootstrap,javascript,sqlite,git" height="45" />
+</div>
+
+### 🧠 ML / AI Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="45"/>
+</div>
 
 ---
 
-## Projects
-- https://github.com/perom7/MyLMS-Student-Portal — Student portal web application for managing courses, assignments, and student workflows
-- https://github.com/perom7/researchassistant — Jupyter notebook collection and utilities to assist academic research and experiments
-- https://github.com/perom7/VeloPark — Front-end prototype for a parking management interface
+## 🧭 Major Projects
+
+### 🚗 [VeloPark](https://github.com/perom7/VeloPark) — Parking Management System
+- Built with **Flask**, **SQLite**, **Bootstrap**, and **Chart.js**  
+- Real-time parking spot tracking and admin-user roles  
+- Automatic allocation + live status dashboard
+
+### 📚 [MyLMS - Student Portal](https://github.com/perom7/MyLMS-Student-Portal)
+- Developed in **.NET 8**, **ASP.NET Core MVC**, and **Razor**  
+- Handles course management, assignments, uploads, and payments  
+- Authentication + secure file handling + modular MVC structure
 
 ---
 
-## What I build
-I build machine learning experiments and end-to-end model deployments, responsive and accessible web applications, and combined ML + web projects that turn research into practical tools.
+## 🧰 What I Build
+- AI/ML Experiments → Model Training & Deployment  
+- Scalable Web Applications → Frontend + Backend  
+- Full-stack integrations combining ML & Web Technologies
+
+---
+
+⭐ **“Turning concepts into real world tools.”**
