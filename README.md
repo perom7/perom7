@@ -46,7 +46,7 @@ I focus on building practical, scalable solutions that combine intelligent model
 
 ## Major Projects
 
-### [VeloPark](https://github.com/perom7/VeloPark) — Parking Management System
+### [VeloPark](https://github.com/perom7/VeloPark)
 - Built with **Flask**, **SQLite**, **Bootstrap**, and **Chart.js**  
 - Real-time parking spot tracking and admin-user roles  
 - Automatic allocation + live status dashboard
@@ -63,6 +63,3 @@ I focus on building practical, scalable solutions that combine intelligent model
 - Scalable Web Applications → Frontend + Backend  
 - Full-stack integrations combining ML & Web Technologies
 
----
-
-**Turning concepts into real world tools.**
