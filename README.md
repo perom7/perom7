@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Minimal Professional Animation Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=👋+Hi%2C+I'm+Param+Desai;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer" alt="Typing Animation" />
+  <!-- Clean Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Param+Desai;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Web+Developer" alt="Typing Animation" />
 
-  <!-- Clean Dynamic GitHub Stats -->
+  <!-- GitHub Stats -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
   </p>
 
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=perom7&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=perom7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
