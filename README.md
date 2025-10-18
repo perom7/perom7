@@ -22,14 +22,14 @@ I focus on building practical, scalable solutions that combine intelligent model
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramdesai7)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Perom_7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desaiparam24@gmail.com)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Core Skills
 <div>
