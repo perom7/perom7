@@ -1,66 +1,47 @@
 <div align="center">
   
-  <!-- Animated GIF -->
+  <!-- Animated GIF (distinct visual from the example you provided) -->
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3N1NHA3MmZyazRyeWh1YXBuaTh2eDhtbnplMTFvN3dxaDM5aHRwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
 
-  <!-- Snake Contribution Animation -->
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SerKirtan/Snake-Animation/main/snake.svg" />
+  <!-- Contribution snake animation (keeps the same concept but different source/size) -->
+  <img alt="contribution-snake" src="https://raw.githubusercontent.com/SerKirtan/Snake-Animation/main/snake.svg" width="220"/>
 
-  <!-- Typing Animation -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Param+Desai+👋;AI+%26+ML+%26+Web+Dev+Enthusiast;3rd+Year+CSE+-+Nirma+University)](https://git.io/typing-svg)
-  
-  <!-- GitHub Stats -->
+  <!-- Typing animation (different text and styling; no emoji) -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=760&lines=Hello,+I+am+Param+Desai;AI+and+Machine+Learning+|+Web+Development;Third+Year+CSE+-+Nirma+University)](https://git.io/typing-svg)
+
+  <!-- GitHub stats and languages (reflects your whole profile) -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=perom7&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=radical" alt="Top Languages" />
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Third year Computer Science & Engineering (CSE) student at **Nirma University**  
-- 🤖 Fond of **AI / ML** — I enjoy building models, experimenting with datasets, and exploring model deployment  
-- 💻 Passionate about **Web Development** — I build responsive, accessible frontends and robust backends  
-- 🔭 Currently learning: advanced ML techniques, MLOps, and full‑stack best practices
+## About
+I am a third year Computer Science & Engineering student at Nirma University. I focus on artificial intelligence and machine learning, and also develop web applications and APIs. My work spans experiments and prototypes in ML, model deployment, and full‑stack web projects.
 
 ---
 
-## 🌐 Connect
-<p align="left">
-  <a href="https://github.com/perom7"><img src="https://img.shields.io/badge/GitHub-@perom7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-</p>
+## Connect
+- GitHub: https://github.com/perom7  
+- LinkedIn: add your LinkedIn URL in the file if you want it shown  
+- Email: add your email address in the file if you want it shown
 
 ---
 
-## 💻 Tech Stack
-- AI / ML: Python, PyTorch, TensorFlow, scikit-learn, NumPy, pandas  
-- Web: JavaScript, TypeScript, React, Next.js, Node.js, Express  
-- Dev & Infra: Docker, Git, Linux, REST, GraphQL  
-- Tools: Jupyter, Streamlit, CI/CD, basic AWS/GCP familiarity
+## Tech stack (visuals reflect entire profile activity)
+The images above show overall GitHub statistics and top languages across your profile (these reflect your repositories and commits). If you prefer different styling (light, dark, other theme) or separate badges per major language I can adjust them.
 
 ---
 
-## 📌 Projects
-- 🔹 [MyLMS-Student-Portal](https://github.com/perom7/MyLMS-Student-Portal) — Student portal web app for managing courses, assignments, and student workflows.  
-  <img src="https://img.shields.io/github/stars/perom7/MyLMS-Student-Portal?style=for-the-badge" alt="stars"/> <img src="https://img.shields.io/github/forks/perom7/MyLMS-Student-Portal?style=for-the-badge" alt="forks"/> <img src="https://img.shields.io/github/issues/perom7/MyLMS-Student-Portal?style=for-the-badge" alt="issues"/> <img src="https://img.shields.io/github/last-commit/perom7/MyLMS-Student-Portal?style=for-the-badge" alt="last commit"/> <img src="https://img.shields.io/github/languages/top/perom7/MyLMS-Student-Portal?style=for-the-badge" alt="language"/>
-
-- 🔹 [researchassistant](https://github.com/perom7/researchassistant) — Jupyter-notebook collection and utilities to assist academic research and experiments.  
-  <img src="https://img.shields.io/github/stars/perom7/researchassistant?style=for-the-badge" alt="stars"/> <img src="https://img.shields.io/github/forks/perom7/researchassistant?style=for-the-badge" alt="forks"/> <img src="https://img.shields.io/github/issues/perom7/researchassistant?style=for-the-badge" alt="issues"/> <img src="https://img.shields.io/github/last-commit/perom7/researchassistant?style=for-the-badge" alt="last commit"/> <img src="https://img.shields.io/github/languages/top/perom7/researchassistant?style=for-the-badge" alt="language"/>
-
-- 🔹 [VeloPark](https://github.com/perom7/VeloPark) — Front-end prototype for a parking management web interface.  
-  <img src="https://img.shields.io/github/stars/perom7/VeloPark?style=for-the-badge" alt="stars"/> <img src="https://img.shields.io/github/forks/perom7/VeloPark?style=for-the-badge" alt="forks"/> <img src="https://img.shields.io/github/issues/perom7/VeloPark?style=for-the-badge" alt="issues"/> <img src="https://img.shields.io/github/last-commit/perom7/VeloPark?style=for-the-badge" alt="last commit"/> <img src="https://img.shields.io/github/languages/top/perom7/VeloPark?style=for-the-badge" alt="language"/>
+## Projects
+- https://github.com/perom7/MyLMS-Student-Portal — Student portal web application for managing courses, assignments, and student workflows
+- https://github.com/perom7/researchassistant — Jupyter notebook collection and utilities to assist academic research and experiments
+- https://github.com/perom7/VeloPark — Front-end prototype for a parking management interface
 
 ---
 
-## 📈 What I build
-- ML experiments, prototypes, and end‑to‑end model deployments (training → serving)  
-- Responsive web apps and APIs focused on performance and accessibility  
-- Combined ML + Web projects that demonstrate applied research and practical tooling
-
----
-
-✨ From idea to production — I bridge ML and web development to build impactful tools.  
+## What I build
+I build machine learning experiments and end-to-end model deployments, responsive and accessible web applications, and combined ML + web projects that turn research into practical tools.
