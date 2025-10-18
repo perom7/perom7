@@ -31,12 +31,12 @@ I focus on building practical, scalable solutions that combine intelligent model
 
 ## 🛠 Tech Stack
 
-### ⚡ Core Skills
+### Core Skills
 <div>
   <img src="https://skillicons.dev/icons?i=python,cpp,dotnet,cs,flask,html,css,bootstrap,javascript,sqlite,git" height="45" />
 </div>
 
-### 🧠 ML / AI Tools
+### AI-ML Tools
 <div>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="45"/>
@@ -46,12 +46,12 @@ I focus on building practical, scalable solutions that combine intelligent model
 
 ## Major Projects
 
-### 🚗 [VeloPark](https://github.com/perom7/VeloPark) — Parking Management System
+### [VeloPark](https://github.com/perom7/VeloPark) — Parking Management System
 - Built with **Flask**, **SQLite**, **Bootstrap**, and **Chart.js**  
 - Real-time parking spot tracking and admin-user roles  
 - Automatic allocation + live status dashboard
 
-### 📚 [MyLMS - Student Portal](https://github.com/perom7/MyLMS-Student-Portal)
+### [MyLMS - Student Portal](https://github.com/perom7/MyLMS-Student-Portal)
 - Developed in **.NET 8**, **ASP.NET Core MVC**, and **Razor**  
 - Handles course management, assignments, uploads, and payments  
 - Authentication + secure file handling + modular MVC structure
@@ -65,4 +65,4 @@ I focus on building practical, scalable solutions that combine intelligent model
 
 ---
 
-**“Turning concepts into real world tools.**
+**Turning concepts into real world tools.**
