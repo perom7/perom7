@@ -5,12 +5,12 @@
 
   <!-- GitHub Stats -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=perom7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=0" height="160" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perom7&layout=compact&theme=tokyonight&hide_border=true&v=0" height="160" alt="Top Languages"/>
   </p>
 
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=perom7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=perom7&theme=tokyonight&hide_border=true&v=0" alt="GitHub Streak" />
 
 </div>
 
@@ -63,3 +63,43 @@ I focus on building practical, scalable solutions that combine intelligent model
 - Scalable Web Applications → Frontend + Backend  
 - Full-stack integrations combining ML & Web Technologies
 
+---
+
+## Workflow for Dynamic Updates
+
+Create a file `.github/workflows/refresh-readme.yml` in your repo with the following:
+
+```yaml
+name: Refresh README images (cache-bust)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'      # daily at 00:00 UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README cache-bust token
+        run: |
+          TIMESTAMP=$(date +%s)
+          FILE=README.md
+          sed -E -i "s/([?&])v=[0-9]+/\\1v=${TIMESTAMP}/g" "$FILE"
+          sed -E -i "s@(https://github-readme-stats.vercel.app/[^)\"']+)@\\1&v=${TIMESTAMP}@g" "$FILE"
+          sed -E -i "s@(https://github-readme-streak-stats.herokuapp.com[^)\"']+)@\\1&v=${TIMESTAMP}@g" "$FILE"
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add "$FILE"
+            git commit -m "chore: refresh README images (cache-bust) - $TIMESTAMP"
+            git push
+          fi
