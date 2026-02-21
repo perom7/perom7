@@ -23,10 +23,10 @@ I build end-to-end intelligent systems combining computer vision, deep learning,
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,c,cs,sql,javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,c,cs,javascript,sql" height="45"/>
 
 ### Frameworks & Tools
 <img src="https://skillicons.dev/icons?i=flask,dotnet,vue,bootstrap,redis,sqlite" height="45"/>
@@ -38,7 +38,7 @@ I build end-to-end intelligent systems combining computer vision, deep learning,
 
 # Projects
 
-## 🚦 Real-Time Traffic Sign Detection & Classification  
+## Real-Time Traffic Sign Detection & Classification  
 **Tech:** PyTorch, YOLOv8, OpenCV, CNNs  
 - Real-time object detection pipeline using YOLOv8  
 - CNN-based classification refinement  
