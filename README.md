@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Param+Desai;Computer+Vision+%7C+Machine+Learning;Full-Stack+Systems+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Param+Desai;AI+Systems+Engineer;Computer+Vision+%7C+Machine+Learning+%7C+Backend+Systems" />
 
 </div>
 
@@ -8,14 +8,16 @@
 
 # Param Desai
 
-B.Tech Computer Science student at Nirma University  
+B.Tech Computer Science — Nirma University  
 Diploma in Data Science & Programming — IIT Madras  
 
-I build end-to-end intelligent systems combining computer vision, deep learning, and scalable backend architecture.
+I design **AI-powered systems that combine machine learning, data pipelines, and scalable backend architecture.**
+
+My work focuses on building **production-oriented ML systems**, not just models.
 
 ---
 
-## Connect
+# Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paramdesai7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/perom7)
@@ -29,41 +31,46 @@ I build end-to-end intelligent systems combining computer vision, deep learning,
 <img src="https://skillicons.dev/icons?i=python,c,cs,javascript,sql" height="45"/>
 
 ### Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=flask,dotnet,vue,bootstrap,redis,sqlite" height="45"/>
+<img src="https://skillicons.dev/icons?i=flask,dotnet,vue,bootstrap,redis,sqlite,docker" height="45"/>
 
 ### ML / CV Libraries
 <img src="https://skillicons.dev/icons?i=pytorch,opencv" height="45"/>
 
 ---
 
-# Projects
+# Key Projects
 
-## Real-Time Traffic Sign Detection & Classification  
-**Tech:** PyTorch, YOLOv8, OpenCV, CNNs  
-- Real-time object detection pipeline using YOLOv8  
-- CNN-based classification refinement  
-- OpenCV-based inference optimization  
+## Voice Copilot — AI Restaurant Revenue Intelligence Agent
+**Tech:** Python, RAG, LLMs, Vector Databases, NLP
 
-🔗 https://github.com/perom7/real-time-traffic-sign-detection-and-classification
+- Conversational AI copilot for restaurant analytics
+- Natural Language → SQL query engine
+- Revenue intelligence recommendations
+- Context-aware restaurant data assistant
+
+🔗 https://github.com/luvp21/Voice-Copilot-AI-Restaurant-Agent
 
 ---
 
-## VeloPark — Smart Parking Platform  
-**Tech:** Flask, SQLite, Redis, Celery, JWT, Vue 3, Bootstrap 5  
-- Multi-user parking system with role-based access  
-- REST APIs with authentication  
-- Background task scheduling  
+## VeloPark — Smart Parking Management Platform
+**Tech:** Flask, SQLite, Redis, Celery, JWT, Vue 3, Bootstrap
+
+- Full-stack parking management system
+- Role-based authentication
+- REST APIs with background task scheduling
+- Multi-user parking allocation system
 
 🔗 https://github.com/perom7/VeloPark
 
 ---
 
-## Offline Research Assistant  
-**Tech:** Python, Streamlit, NLP (TF-IDF, MMR, TextRank), OCR, TTS  
-- Research PDF to structured summaries and notes  
-- Section-aware NLP pipeline  
-- OCR fallback processing  
-- Automated PPT and audio generation  
+## Offline Research Assistant
+**Tech:** Python, Streamlit, NLP, OCR, TTS
+
+- Converts research papers into structured summaries
+- Section-aware NLP pipeline
+- OCR fallback for scanned PDFs
+- Automatic PPT and audio generation
 
 🔗 https://github.com/perom7/researchassistant
 
@@ -71,8 +78,18 @@ I build end-to-end intelligent systems combining computer vision, deep learning,
 
 # Focus Areas
 
-- Computer Vision  
-- Deep Learning Systems  
-- Backend Engineering  
-- API Design  
-- AI + Web Integration  
+- Computer Vision Systems
+- Deep Learning Pipelines
+- Backend Engineering
+- AI + Web Integration
+- ML System Design
+
+
+---
+
+# Current Work
+
+- AI Copilot Systems
+- Computer Vision Pipelines
+- ML Infrastructure
+- Backend Architecture
